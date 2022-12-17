@@ -1,4 +1,9 @@
-## About us 👋
+# Nightshift Studio
+
+- [Discord](https://discord.gg/UuU5F2wB)
+- [Store](https://store.night-shift-studio.com/)
+
+## About us
 
 We have been running GTA5/RDR2 role-playing servers ourselves for years and have spent long night shifts tweaking and fixing scripts. 
 
