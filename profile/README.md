@@ -3,6 +3,7 @@
 __REDM scripts by professionals__
 
 - [Discord](https://discord.gg/UuU5F2wB)
+  - [#nss_libs](https://discord.com/channels/1022133473508589609/1022144212831064064)
   - [#nss_chalkboard](https://discord.com/channels/1022133473508589609/1032264697598181386)
   - [#nss_pinboard](https://discord.com/channels/1022133473508589609/1022145500272660542)
   - [#nss_quest](https://discord.com/channels/1022133473508589609/1035209306854932500)
